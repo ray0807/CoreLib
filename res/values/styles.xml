@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
+		<item name="android:scrollbarThumbVertical">@drawable/scrollbar_bg</item>
+		<item name="android:scrollbarThumbHorizontal">@drawable/scrollbar_bg</item>
+		<item name="android:scrollbarSize">3dp</item>
+    </style>
+    
+</resources>
